@@ -17,5 +17,5 @@ python model_training.py
 ## Run App
 
 ```bash
-streamlit run app.py
+streamlit run streamlit_app.py
 ```
